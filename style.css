@@ -410,3 +410,10 @@ transition: backgroud 0.3s;
   font-size: 1.5rem;
   margin-bottom: 0.75;
 }
+
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
